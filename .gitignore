@@ -1,0 +1,7 @@
+.env
+.env.save
+vpn/
+config/
+cache/
+docker-compose.yml.save
+.env.save
